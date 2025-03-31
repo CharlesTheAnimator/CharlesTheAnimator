@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharlesTheAnimator
-- 🌱 I’m currently learning Mechanical Engineering
+- 🌱 I’m currently Studying Machine learning, Data Science, and Computer Engineering
 - 💞️ I’m looking to collaborate on nullptr
 
 <!---
